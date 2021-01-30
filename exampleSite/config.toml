@@ -103,14 +103,14 @@ copyright = "test"
 
 ############################ news letter ########################
 [params.newsletter]
-enable = true
+enable = false
 title = "Join Our Newsletter"
 content = "test"
 
 
 # cookies
 [params.cookies]
-enable = False
+enable = true
 expire_days = 0
 
 
