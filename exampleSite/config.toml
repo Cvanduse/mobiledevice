@@ -109,9 +109,9 @@ content = "test"
 
 
 # cookies
-#[params.cookies]
-#enable = true
-#expire_days = 0
+[params.cookies]
+enable = true
+expire_days = 0
 
 
 ############################# social site ########################
