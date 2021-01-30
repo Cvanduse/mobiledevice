@@ -1,6 +1,6 @@
 ---
 title: "About Me"
-date: 2020-10-29T10:07:47+06:00
+date: 
 draft: false
 
 # post thumb
@@ -23,7 +23,7 @@ tags:
 type: "featured"
 ---
 
-# Heading 1
+# Test Heading 1
 ## Heading 2
 ### Heading 3
 #### Heading 4
