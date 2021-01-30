@@ -90,7 +90,7 @@ googleAnalitycsID = "Your ID"
 # email = "demo@email.com"
 # location = "Dhaka, Bangladedsh"
 # copyright
-copyright = ""
+copyright = "test"
 
   # Preloader
   [params.preloader]
@@ -105,7 +105,7 @@ copyright = ""
 [params.newsletter]
 enable = true
 title = "Join Our Newsletter"
-content = ""
+content = "test"
 
 
 # cookies
