@@ -110,7 +110,7 @@ content = "test"
 
 # cookies
 [params.cookies]
-enable = 
+enable = true
 expire_days = 0
 
 
