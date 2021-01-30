@@ -60,20 +60,20 @@ disqusShortname = ""
   weight = 3
 
   # footer menu
-  [[menu.footer]]
-  name = "About"
-  URL = "about"
-  weight = 1
+  #[[menu.footer]]
+  #name = "About"
+  #URL = "about"
+  #weight = 1
 
-  [[menu.footer]]
-  name = "Post"
-  URL = "blog"
-  weight = 2
+  #[[menu.footer]]
+  #name = "Post"
+  #URL = "blog"
+  #weight = 2
 
-  [[menu.footer]]
-  name = "Contact"
-  URL = "contact"
-  weight = 3
+  #[[menu.footer]]
+  #name = "Contact"
+  #URL = "contact"
+  #weight = 3
 
 
 #################### default parameters ################################
@@ -110,7 +110,7 @@ content = "test"
 
 # cookies
 [params.cookies]
-enable = true
+enable = 
 expire_days = 0
 
 
