@@ -11,7 +11,7 @@ description: "this is meta description"
 
 # taxonomies
 categories: 
-  - "Web Design"
+  - ""
 tags:
   - "Photos"
   - "Game"
