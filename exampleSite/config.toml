@@ -51,7 +51,7 @@ disqusShortname = ""
 
   [[menu.main]]
   name = "Post"
-  URL = "blog"
+  URL = "blog.fwd2cv.com"
   weight = 2
 
   [[menu.main]]
