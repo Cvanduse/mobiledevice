@@ -13,8 +13,6 @@ description: "this is meta description"
 type : "about"
 ---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet,
+Wake up early. Drink Coffee. Work Hard.
 
-consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
-
-nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd
+A Detroiter who is inspired by the hustle, loves building things from the rock bottom, and is constantly in search for another cup of coffee. Despite growing up on Motown, I actually prefer listening to Hip Hop and Jazz. Definitely, rooted deep in the Motor City, but I still love to get out and explore different cities and experience new cultures.
