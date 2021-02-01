@@ -1,6 +1,5 @@
 ---
 title: "About Me"
-date: 
 draft: false
 
 # post thumb
