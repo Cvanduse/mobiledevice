@@ -5,6 +5,8 @@ draft: false
 # post thumb
 image: "images/featured-post/post-1.jpg"
 
+url: 'https://amazon.com'
+
 # meta description
 description: "this is meta description"
 
